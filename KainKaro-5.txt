@@ -1,0 +1,1 @@
+{0: 'Uis_Bekah_Buluh', 1: 'Uis_Gatip_Jongkit', 2: 'Uis_Julu_Diberu', 3: 'Uis_Kelam_Kelam', 4: 'Uis_Nipes'}
